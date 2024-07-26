@@ -4,7 +4,7 @@ import os
 import json
 
 # Bot tokeni
-bot_token = '6875645552:AAFeqRGSXT6wUtXQBu6cGfyLRfaY9iypJ8s'
+bot_token = '6875645552:AAGN1WlZSY4iygJAcT7MW0yqwDPsDS3wTDM'
 bot = telebot.TeleBot(bot_token)
 
 # Admin user ID ro'yxati
